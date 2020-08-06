@@ -4,7 +4,8 @@
 </template>
 
 <script>
-import TodoList from './components/03-composition-api/TodoList'
+// import TodoList from './components/03-composition-api/TodoList'
+import TodoList from './components/04-demo'
 export default {
   name: 'App',
   components: {
